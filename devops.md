@@ -1,0 +1,1 @@
+Filozofia DevOps jest sposobem prowadzenia projektu od strony techniczno biznesowej. To dbanie o ciągłość przepływu kodu aplikacji pomiędzy różnymi etapami wytwarzania oprogramowania. Infrastruktura aplikacji wraz z kodem powinna charakteryzować się stabilnością, szybkością oraz nieprzewymiarowanymi kosztami.
